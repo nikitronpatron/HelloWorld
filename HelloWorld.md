@@ -5,3 +5,6 @@
 3. Bind local and remote repositories.
 
 Редактирование с другого компьютера.
+
+
+Я скоро сойду с ума.
